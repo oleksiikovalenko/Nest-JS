@@ -26,7 +26,7 @@
     "@nestjs/config": "^4.0.0",
     "@nestjs/core": "^11.0.3",
     "@nestjs/jwt": "^11.0.0",
-    "@nestjs/passport": "^10.0.0",
+    "@nestjs/passport": "^11.0.4",
     "@nestjs/platform-express": "^11.0.3",
     "@sendgrid/mail": "^8.1.0",
     "bcrypt": "^5.0.1",
